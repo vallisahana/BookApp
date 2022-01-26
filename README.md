@@ -1,6 +1,6 @@
 # Book_Library_App
 
-![fit-modified](https://www.clipartmax.com/png/full/2-21991_free-open-book-clip-art-open-book-clip-art.png height=)
+![fit-modified](https://www.clipartmax.com/png/full/2-21991_free-open-book-clip-art-open-book-clip-art.png)
 
 Get Google Book 
 
